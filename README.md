@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This is a fully responsive, dynamic single-page web application designed to showcase my technical projects, engineering skills, and academic journey.
 
 ## 🌐 Live Demo
-You can view the live, interactive website here: **[]**
+You can view the live, interactive website here: **[https://jayshreer08.github.io/portfolio/]**
 
 ---
 
