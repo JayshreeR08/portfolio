@@ -29,5 +29,5 @@ The entire application is engineered into a standalone file for optimized loadin
 
 ## 👤 Connect with Me
 Thank you for visiting! Let's connect and discuss technology, engineering, or potential opportunities:
-* **LinkedIn:** []
+* **LinkedIn:** [https://www.linkedin.com/in/jayshree-kanwar-a74a43332]
 * **GitHub:** [https://github.com/JayshreeR08](https://github.com/JayshreeR08)
